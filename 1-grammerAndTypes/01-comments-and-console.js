@@ -37,3 +37,14 @@ console.log(sampleNum);
 sampleNum++;
 console.log(sampleNum);
 
+// single line comment
+let myAge = 18;
+console.log(myAge);
+/*
+A
+Multi-line
+comment...
+...
+just 
+cuz i felt like it.
+*/
