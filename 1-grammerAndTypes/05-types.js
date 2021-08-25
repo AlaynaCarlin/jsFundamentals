@@ -73,7 +73,7 @@ console.log(third);
 console.log(typeof third);
 
 //interpolation 
-//lets you use strings with dynamic content (they require backsticks)
+//lets you use strings with dynamic content (they require backticks)
 
 //Example 1:
 let age = 32;

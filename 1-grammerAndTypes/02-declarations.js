@@ -13,17 +13,17 @@ console.log(a+b);
 //notes on naming variables
 //1) a variable, must begin with a letter, underscore, or dollar sign
 //2) numbers may follow the above characters, but cannot come first
-//3) JavaScript is case sensative-- 'hello' and 'Hello' are different variables
+//3) JavaScript is case sensitive-- 'hello' and 'Hello' are different variables
 
 /*
-DECLARATIONS, INITALIZATIONS, ASSIGNMENT
+DECLARATIONS, INITIALIZATIONS, ASSIGNMENT
 */
 /*
 Declarations refer to when we 'declare' the variable
 
-Initalizations refer to when a variable is assigned a value
+Initializations refer to when a variable is assigned a value
 
-Assignment refers to giving a variable a value. This can be after initalization.
+Assignment refers to giving a variable a value. This can be after initialization.
 */
 
 var x;
